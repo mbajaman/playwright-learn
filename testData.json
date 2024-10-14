@@ -1,0 +1,16 @@
+{
+    "username": "admin@email.com",
+    "password": "admin@123",
+    "name": "Mukesh",
+    "interest":[
+        "Selenium",
+        "Cypress",
+        "Java"
+    ],
+    "gender": "Male",
+    "address": {
+        "area": "HSR",
+        "city": "Bangalore",
+        "pincode": 556677
+    }
+}
